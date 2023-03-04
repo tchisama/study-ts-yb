@@ -1,5 +1,5 @@
 # Welcome to the "New Concepts and Skills in Computer Science" Repository!
-This repository is created for the purpose of studying and learning new concepts and skills in Computer Science by two friends - whybe and tchisama. The repository will contain code snippets, notes, and resources related to various topics in Computer Science.
+This repository is created for the purpose of studying and learning new concepts and skills in Computer Science by three friends - whybe , tchisama and Z-Najdaoui. The repository will contain code snippets, notes, and resources related to various topics in Computer Science.
 
 ## Table of Contents
 - Getting Started
@@ -11,7 +11,7 @@ This repository is created for the purpose of studying and learning new concepts
 ## To get started with this repository, you can simply clone the repository to your local machine using the following command:
 
 ```console
-git clone https://github.com/whybe-tchisama/new-concepts-and-skills.git
+git clone https://github.com/tchi-sama/study-ts-yb.git
 ```
 ## Contributing
 We welcome contributions from anyone who is interested in learning and sharing knowledge. If you would like to contribute to this repository, please follow the steps below:
